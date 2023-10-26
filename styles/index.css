@@ -1,0 +1,19 @@
+h2 {
+    font-size: small;
+    font-weight: 200;
+}
+
+.black {
+    background-color:silver;
+    width: fit-content;
+    display: inline-block;
+    font-size: x-large;
+}
+
+.red {
+    background-color: silver;
+    width: fit-content;
+    display: inline-block;
+    color: red;
+    font-size: x-large;
+}
